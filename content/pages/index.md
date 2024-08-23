@@ -108,10 +108,11 @@ sections:
         type: FeaturedItem
       - title: Paragraph News
         subtitle: free news
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Stay informed with concise news summaries from reputable sources.
+          Paragraph News + delivers the latest updates in a short and
+          easy-to-read format, covering topics such as politics, technology,
+          sports, and entertainment.
         image:
           url: /images/paragraph.png
           altText: Featured icon three
