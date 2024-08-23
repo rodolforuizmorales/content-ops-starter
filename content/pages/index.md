@@ -38,7 +38,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: apps
+      text: see all apps
       color: text-dark
       styles:
         self:
