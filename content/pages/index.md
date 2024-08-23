@@ -17,16 +17,7 @@ sections:
       With over two decades of experience, we’ve dedicated ourselves to
       developing free, high-quality applications that cater to the needs of
       underprivileged communities in Latin America and beyond.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/seeb_logo.png
       altText: Unblock your team boost your time to production preview
