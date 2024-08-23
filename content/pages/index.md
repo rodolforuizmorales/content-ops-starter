@@ -9,11 +9,12 @@ sections:
       type: TitleBlock
     subtitle: seeb development
     text: >
-      Seeb Development is an indie startup founded with a passion for using
-      technology to make a difference in the lives of those who need it most.
-      With over two years of experience, we’ve dedicated ourselves to developing
-      free, high-quality applications that cater to the needs of underprivileged
-      communities in Latin America and beyond.
+      Seeb Development is an indie startup founded in the middle of the jungle
+      in Merida, Yucatan, Mexico with a passion for using technology to make a
+      difference in the lives of those who need it most. With over two years of
+      experience, we’ve dedicated ourselves to developing free, high-quality
+      applications that cater to the needs of underprivileged communities in
+      Latin America and beyond.
     actions:
       - label: Get started
         altText: ''
