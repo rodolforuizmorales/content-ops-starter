@@ -218,7 +218,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >
       To empower underserved communities by providing free, accessible, and
       high-quality software solutions that promote education, sustainability,
