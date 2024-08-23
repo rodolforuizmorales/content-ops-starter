@@ -211,26 +211,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: mission
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      To empower underserved communities by providing free, accessible, and
-      high-quality software solutions that promote education, sustainability,
-      and social growth.
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: GenericSection
     title:
       text: Generic section with a video
