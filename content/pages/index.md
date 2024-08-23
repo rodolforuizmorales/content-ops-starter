@@ -32,7 +32,8 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/ripe-dragon-fruit-pitaya-or-pitahaya-hylocercus-undatus-brit-rose-isolated-on-a-white-background-fruit-healthy-concept-png.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
