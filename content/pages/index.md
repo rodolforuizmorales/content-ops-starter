@@ -100,7 +100,16 @@ sections:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://play.google.com/store/apps/details?id=com.seeb.rdiolite'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
