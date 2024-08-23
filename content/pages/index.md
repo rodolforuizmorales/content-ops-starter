@@ -24,7 +24,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: welcome to SEEB DEVELOPMENT
+      label: SEEB DEVELOPMENT
       color: text-primary
       type: Badge
     elementId: ''
