@@ -49,7 +49,7 @@ sections:
       impactful software solutions
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 'viewflix lite: global tv'
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
