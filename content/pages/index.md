@@ -82,7 +82,7 @@ sections:
                 - pt-0
               borderWidth: 0
       - title: Rdio - FM & AM Live Radio
-        subtitle: The Job Stuff
+        subtitle: free radio
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
