@@ -193,8 +193,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/dot_net_icon_138665.png
-        altText: Wellster logo
+      - altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
