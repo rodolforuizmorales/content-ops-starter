@@ -51,10 +51,11 @@ sections:
       - type: FeaturedItem
         title: 'viewflix lite: global tv'
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          enjoy a wide range of global TV channels right at your fingertips.
+          With live streaming options from various international broadcasters,
+          you can stay updated with the latest news, sports, and entertainment
+          from around the world.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
