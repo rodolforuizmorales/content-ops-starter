@@ -50,7 +50,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'viewflix lite: global tv'
-        subtitle: Numbers Done
+        subtitle: free tv
         text: >
           enjoy a wide range of global TV channels right at your fingertips.
           With live streaming options from various international broadcasters,
