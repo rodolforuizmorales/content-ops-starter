@@ -44,7 +44,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: showing our commitment to creating impactful software solutions
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: 'Viewflix Lite: Global TV'
