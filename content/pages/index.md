@@ -88,7 +88,7 @@ sections:
           world. Whether it’s music, talk shows, news, or sports broadcasts,
           Rdio has got you covered with a diverse selection of stations.
         image:
-          url: /images/icon2.svg
+          url: /images/rdio.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
