@@ -107,7 +107,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Paragraph News
-        subtitle: Faster
+        subtitle: free news
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
