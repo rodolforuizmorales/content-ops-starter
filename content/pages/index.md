@@ -9,31 +9,20 @@ sections:
       type: TitleBlock
     subtitle: about us
     text: >
-      Seeb Development is an indie startup founded in the middle of the jungle
+      seeb development is an indie startup founded in the middle of the jungle
       in Merida, Yucatan, Mexico with a passion for using technology to make a
-      difference in the lives of those who need it most. 
-
-
-      With over two decades of experience, we’ve dedicated ourselves to
-      developing free, high-quality applications that cater to the needs of
-      underprivileged communities in Latin America and beyond.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+      difference in the lives of those who need it most. With over two decades
+      of experience, we’ve dedicated ourselves to developing free, high-quality
+      applications that cater to the needs of underprivileged communities in
+      Latin America and beyond.
+    actions: []
     media:
       url: /images/seeb_logo.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: welcome to SEEB DEVELOPMENT
+      label: SEEB DEVELOPMENT
       color: text-primary
       type: Badge
     elementId: ''
@@ -49,23 +38,24 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: current projets
+      text: free android apps
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      Brief introduction to Seeb Development to show our commitment to creating
+      brief introduction to seeb development to show our commitment to creating
       impactful software solutions
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: 'Viewflix Lite: Global TV'
+        subtitle: free tv
+        text: >
+          Enjoy a wide range of global TV channels right at your fingertips.
+          With live streaming options from various international broadcasters,
+          you can stay updated with the latest news, sports, and entertainment
+          from around the world.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -84,18 +74,21 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/viewflix.png
           styles:
             self:
-              borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+              borderRadius: xx-small
+              padding:
+                - pt-0
+              borderWidth: 0
+      - title: Rdio - FM & AM Live Radio
+        subtitle: free radio
+        text: >
+          Listen to your favorite FM and AM radio stations from anywhere in the
+          world. Whether it’s music, talk shows, news, or sports broadcasts,
+          Rdio has got you covered with a diverse selection of stations.
         image:
-          url: /images/icon2.svg
+          url: /images/rdio.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -113,14 +106,15 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Paragraph News
+        subtitle: free news
+        text: >
+          Stay informed with concise news summaries from reputable sources.
+          Paragraph News + delivers the latest updates in a short and
+          easy-to-read format, covering topics such as politics, technology,
+          sports, and entertainment.
         image:
-          url: /images/icon3.svg
+          url: /images/paragraph.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -136,16 +130,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: SEEB
       color: text-primary
