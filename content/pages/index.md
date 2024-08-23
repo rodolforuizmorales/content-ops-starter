@@ -7,7 +7,7 @@ sections:
       text: 'empowering communities through free, high-quality sofware'
       color: text-dark
       type: TitleBlock
-    subtitle: seeb development
+    subtitle: about us
     text: >
       Seeb Development is an indie startup founded in the middle of the jungle
       in Merida, Yucatan, Mexico with a passion for using technology to make a
@@ -28,8 +28,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: >-
-        /images/ripe-dragon-fruit-pitaya-or-pitahaya-hylocercus-undatus-brit-rose-isolated-on-a-white-background-fruit-healthy-concept-png.png
+      url: /images/seeb_logo.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
