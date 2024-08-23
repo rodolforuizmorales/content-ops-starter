@@ -159,7 +159,7 @@ sections:
         type: FeaturedItem
     actions:
       - type: Button
-        label: Get started
+        label: See all apps
         altText: ''
         url: >-
           https://play.google.com/store/apps/collection/cluster?gsr=SlRqGEFmSFQ1MnM3bUg0RnM1V2xEYzdwdnc9PbICNwoaChZjb20uc2VlYi5wYXJhZ3JhcGhwbHVzEAcSFwgBEhM4NTMxOTcwMTQwNDI3MDg4NzY0GAA%3D:S:ANO1ljKoP6M
