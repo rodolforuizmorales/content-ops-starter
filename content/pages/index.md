@@ -54,7 +54,17 @@ sections:
           With live streaming options from various international broadcasters,
           you can stay updated with the latest news, sports, and entertainment
           from around the world.
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://play.google.com/store/apps/details?id=com.seeb.vieflixlite&pli=1
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
