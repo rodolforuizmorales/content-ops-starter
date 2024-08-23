@@ -4,12 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'empowering communities through free, high-quality sofware'
+      text: 'Empowering communities through free, high-quality sofware'
       color: text-dark
       type: TitleBlock
     subtitle: about us
     text: >
-      seeb development is an indie startup founded in the middle of the jungle
+      Seeb development is an indie startup founded in the middle of the jungle
       in Merida, Yucatan, Mexico with a passion for using technology to make a
       difference in the lives of those who need it most. With over two decades
       of experience, we’ve dedicated ourselves to developing free, high-quality
@@ -38,15 +38,13 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: free android apps
+      text: apps
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: >-
-      brief introduction to seeb development to show our commitment to creating
-      impactful software solutions
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: 'Viewflix Lite: Global TV'
@@ -56,7 +54,17 @@ sections:
           With live streaming options from various international broadcasters,
           you can stay updated with the latest news, sports, and entertainment
           from around the world.
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://play.google.com/store/apps/details?id=com.seeb.vieflixlite&pli=1
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -92,7 +100,16 @@ sections:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://play.google.com/store/apps/details?id=com.seeb.rdiolite'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -118,7 +135,17 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://play.google.com/store/apps/details?id=com.seeb.paragraphplus
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -130,7 +157,17 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions: []
+    actions:
+      - type: Button
+        label: See all apps
+        altText: ''
+        url: >-
+          https://play.google.com/store/apps/collection/cluster?gsr=SlRqGEFmSFQ1MnM3bUg0RnM1V2xEYzdwdnc9PbICNwoaChZjb20uc2VlYi5wYXJhZ3JhcGhwbHVzEAcSFwgBEhM4NTMxOTcwMTQwNDI3MDg4NzY0GAA%3D:S:ANO1ljKoP6M
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       label: SEEB
       color: text-primary
@@ -183,8 +220,8 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - posts:
-      - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-3.md
     showThumbnail: true
     showDate: true
