@@ -24,15 +24,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: >-
         /images/ripe-dragon-fruit-pitaya-or-pitahaya-hylocercus-undatus-brit-rose-isolated-on-a-white-background-fruit-healthy-concept-png.png
