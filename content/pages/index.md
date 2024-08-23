@@ -78,7 +78,7 @@ sections:
             self:
               borderRadius: x-large
               padding:
-                - pt-5
+                - pt-0
       - title: 20x
         subtitle: The Job Stuff
         text: >-
