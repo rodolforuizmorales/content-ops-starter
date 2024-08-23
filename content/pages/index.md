@@ -76,7 +76,7 @@ sections:
           url: /images/viewflix.png
           styles:
             self:
-              borderRadius: x-large
+              borderRadius: xx-small
               padding:
                 - pt-0
       - title: 20x
