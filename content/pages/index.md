@@ -157,7 +157,17 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          https://play.google.com/store/apps/collection/cluster?gsr=SlRqGEFmSFQ1MnM3bUg0RnM1V2xEYzdwdnc9PbICNwoaChZjb20uc2VlYi5wYXJhZ3JhcGhwbHVzEAcSFwgBEhM4NTMxOTcwMTQwNDI3MDg4NzY0GAA%3D:S:ANO1ljKoP6M
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       label: SEEB
       color: text-primary
