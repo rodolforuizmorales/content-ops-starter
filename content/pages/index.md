@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: about us
     text: >
-      seeb development is an indie startup founded in the middle of the jungle
+      Seeb development is an indie startup founded in the middle of the jungle
       in Merida, Yucatan, Mexico with a passion for using technology to make a
       difference in the lives of those who need it most. With over two decades
       of experience, we’ve dedicated ourselves to developing free, high-quality
