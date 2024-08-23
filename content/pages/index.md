@@ -44,9 +44,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: >-
-      Brief introduction to seeb development to show our commitment to creating
-      impactful software solutions
+    subtitle: showing our commitment to creating impactful software solutions
     items:
       - type: FeaturedItem
         title: 'Viewflix Lite: Global TV'
