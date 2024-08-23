@@ -7,7 +7,7 @@ sections:
       text: 'empowering communities through free, high-quality sofware'
       color: text-dark
       type: TitleBlock
-    subtitle: seeb development
+    subtitle: about us
     text: >
       Seeb Development is an indie startup founded in the middle of the jungle
       in Merida, Yucatan, Mexico with a passion for using technology to make a
