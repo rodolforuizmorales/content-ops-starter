@@ -52,7 +52,7 @@ sections:
         title: 'Viewflix Lite: Global TV'
         subtitle: free tv
         text: >
-          enjoy a wide range of global TV channels right at your fingertips.
+          Enjoy a wide range of global TV channels right at your fingertips.
           With live streaming options from various international broadcasters,
           you can stay updated with the latest news, sports, and entertainment
           from around the world.
