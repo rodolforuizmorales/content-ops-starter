@@ -38,7 +38,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Free Android apps
+      text: free Android apps
       color: text-dark
       styles:
         self:
