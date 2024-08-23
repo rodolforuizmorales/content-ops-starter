@@ -83,10 +83,10 @@ sections:
               borderWidth: 0
       - title: Rdio - FM & AM Live Radio
         subtitle: free radio
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Listen to your favorite FM and AM radio stations from anywhere in the
+          world. Whether it’s music, talk shows, news, or sports broadcasts,
+          Rdio has got you covered with a diverse selection of stations.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
