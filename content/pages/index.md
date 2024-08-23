@@ -45,7 +45,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      Brief introduction to Seeb Development to show our commitment to creating
+      brief introduction to seeb development to show our commitment to creating
       impactful software solutions
     items:
       - type: FeaturedItem
