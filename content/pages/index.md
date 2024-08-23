@@ -49,7 +49,7 @@ sections:
       impactful software solutions
     items:
       - type: FeaturedItem
-        title: 'viewflix lite: global tv'
+        title: 'Viewflix Lite: Global TV'
         subtitle: free tv
         text: >
           enjoy a wide range of global TV channels right at your fingertips.
