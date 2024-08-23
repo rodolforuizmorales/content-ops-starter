@@ -81,7 +81,7 @@ sections:
               padding:
                 - pt-0
               borderWidth: 0
-      - title: 20x
+      - title: Rdio - FM & AM Live Radio
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
