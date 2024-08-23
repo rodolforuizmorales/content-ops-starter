@@ -7,7 +7,7 @@ sections:
       text: 'empowering communities through free, high-quality sofware'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: seeb development
     text: >
       Seeb Development is an indie startup founded with a passion for using
       technology to make a difference in the lives of those who need it most.
