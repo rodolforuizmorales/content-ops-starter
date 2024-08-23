@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Empowering communities through free, high-quality sofware'
+      text: 'empowering communities through free, high-quality sofware'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
