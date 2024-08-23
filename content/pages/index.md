@@ -4,14 +4,16 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Empowering communities through free, high-quality sofware'
+      text: 'empowering communities through free, high-quality sofware'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: seeb development
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Seeb Development is an indie startup founded with a passion for using
+      technology to make a difference in the lives of those who need it most.
+      With over two years of experience, we’ve dedicated ourselves to developing
+      free, high-quality applications that cater to the needs of underprivileged
+      communities in Latin America and beyond.
     actions:
       - label: Get started
         altText: ''
@@ -22,15 +24,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: >-
         /images/ripe-dragon-fruit-pitaya-or-pitahaya-hylocercus-undatus-brit-rose-isolated-on-a-white-background-fruit-healthy-concept-png.png
@@ -54,13 +47,15 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: current projets
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Brief introduction to Seeb Development to show our commitment to creating
+      impactful software solutions
     items:
       - type: FeaturedItem
         title: 500k
@@ -150,7 +145,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: SEEB
       color: text-primary
       styles:
         self:
@@ -169,7 +164,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: tools
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
