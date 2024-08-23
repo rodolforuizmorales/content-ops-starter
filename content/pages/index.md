@@ -131,7 +131,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Download
         altText: ''
         url: /
         showIcon: false
