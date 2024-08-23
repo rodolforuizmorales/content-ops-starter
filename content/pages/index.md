@@ -53,7 +53,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Brief introduction to Seeb Development to show our commitment to creating
+      impactful software solutions
     items:
       - type: FeaturedItem
         title: 500k
